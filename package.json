@@ -34,7 +34,7 @@
     "native-dns": "^0.7.0",
     "natives": "^1.1.6",
     "node-fetch": "^2.6.1",
-    "notifme-sdk": "^1.9.3",
+    "notifme-sdk": "^1.12.0",
     "on-headers": "^1.0.1",
     "pug": "^2.0.0",
     "request": "^2.88.0",
@@ -49,7 +49,7 @@
     "vue-axios": "^2.1.2",
     "vue-moment": "^4.1.0",
     "vue-router": "^3.0.2",
-    "vue-server-renderer": "^2.6.12",
+    "vue-server-renderer": "^2.7.0",
     "vue-template-compiler": "^2.6.12",
     "vuex": "^3.0.1"
   },
