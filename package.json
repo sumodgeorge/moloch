@@ -43,7 +43,7 @@
     "splunk-sdk": "^1.9.0",
     "sqlite3": "^4.2.0",
     "stylus": "^0.54.5",
-    "unzipper": "^0.10.10",
+    "unzipper": "^0.12.1",
     "uuidv4": "^5.0.1",
     "vue": "^2.6.12",
     "vue-axios": "^2.1.2",
